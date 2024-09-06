@@ -1,5 +1,7 @@
 # Deploy link
 
+https://main--tab-test-1.netlify.app/
+
 ### Launch project
 
 node - v20.11.0
@@ -16,8 +18,8 @@ Project follows the Feature-Sliced Design (FSD) architecture. Check out the FSD 
 
 ### Tabs implementation
 
-src/widgets/InteractiveTabs/ui/InteractiveTabs.tsx
+[link](src/widgets/InteractiveTabs/ui/InteractiveTabs.tsx)
 
 ### Tabs usage
 
-src/pages/Main/ui/Main
+[link](src/pages/Main/ui/Main/Main.tsx)
